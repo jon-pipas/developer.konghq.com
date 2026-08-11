@@ -85,6 +85,7 @@ faqs:
     a: |
       Yes. [`access.acls`](/ai-gateway/entities/ai-agent/#access-control) on the AI Agent restricts which AI Consumers or AI Consumer Groups can reach it. The OpenID Connect Policy authenticates the caller first, then ACLs decide whether that identity is allowed through.
 
+automated_tests: false
 ---
 
 ## Create an AI Agent and OpenID Connect Policy
