@@ -669,6 +669,7 @@ rego
 reinstall
 reinstallation
 Rekor
+Reloader
 remediation
 remediations
 repo
@@ -748,6 +749,7 @@ ssl_cert_key
 ssl_certificate
 ssl_client_verify
 sso
+Stakater
 Stap
 stapxx
 start_cmd
